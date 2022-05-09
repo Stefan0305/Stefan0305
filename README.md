@@ -1,6 +1,6 @@
 <img src="https://www.pngkit.com/png/full/897-8973634_matrix-434037-matrix-code-png.png"/>
 <p align="center" style="font-size: 20px;">
-Hi there 👋 <br/>
+Hey there 👋 <br/>
 My name is Stefan. I am a Student of Computer Science and Engineering in my final year of studies. I like solving problems, creating beautiful designs, working in a team, hanging out with people, listening to metal music and snowboarding. </br> Reach me using the links on the bottom. </br> Cheers!
 </p>
 <hr>
