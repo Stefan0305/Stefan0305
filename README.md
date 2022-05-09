@@ -1,9 +1,11 @@
-### Hi there 👋
-My name is Stefan
-
+<img src="https://www.pngkit.com/png/full/897-8973634_matrix-434037-matrix-code-png.png"/>
+<p align="center" style="font-size: 20px;">
+Hi there 👋 <br/>
+My name is Stefan. I am a Student of Computer Science and Engineering in my final year of studies. I like solving problems, creating beautiful designs, working in a team, hanging out with people, listening to metal music and snowboarding. </br> Reach me using the links on the bottom. </br> Cheers!
+</p>
 <hr>
 
-<p align="center">My stack and skills</p>
+<h3 align="center">My stack and skills</h3>
 <div align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -31,7 +33,7 @@ My name is Stefan
 
 <hr>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=gruvbox_light&show_icons=true)
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Stefan0305&theme=gruvbox_light&show_icons=true"/></div>
 
 <hr>
 
