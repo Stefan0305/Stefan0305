@@ -39,10 +39,9 @@ My name is Stefan. I am a Student of Computer Science and Engineering in my fina
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/stefannikolovski/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="30" /></a>
-<a href="https://github.com/Stefan0305" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="" height="30" width="40" /></a>
-<a href="mailto:ni.stefan.95@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="" height="30" width="40" /></a>
-<a href="https://twitter.com/stefanpigmy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="30" /></a>
-<a href="https://www.facebook.com/stefan.pigmy/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="30" width="30" /></a>
-<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/stefannikolovski/" target="blank"><img align="center" src="https://icones.pro/wp-content/uploads/2021/03/icone-linkedin-ronde-rouge.png" alt="linkedin" height="50" width="50" background-color="red"/></a>
+<a href="https://github.com/Stefan0305" target="blank"><img align="center" src="https://icones.pro/wp-content/uploads/2021/06/icone-github-rouge.png" alt="github" height="50" width="50" /></a>
+<a href="mailto:ni.stefan.95@gmail.com" target="blank"><img align="center" src="https://icones.pro/wp-content/uploads/2021/03/icone-gmail-logo-png-rouge.png" alt="gmail" height="60" width="60" /></a>
+<a href="https://twitter.com/stefanpigmy" target="blank"><img align="center" src="https://icones.pro/wp-content/uploads/2021/02/icone-twitter-ronde-rouge.png" alt="twitter" height="45" width="45" /></a>
+<a href="https://www.facebook.com/stefan.pigmy/" target="blank"><img align="center" src="https://www.garpusa.com/wp-content/uploads/2021/03/facebook-icon.png" alt="facebook" height="45" width="45" /></a>
 </p>
